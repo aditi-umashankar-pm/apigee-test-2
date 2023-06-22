@@ -103,7 +103,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://api-partner.spotify.com/pathfinder/v1/query?operationName=home&variables=%7B%22timeZone%22%3A%22Asia%2FCalcutta%22%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%223a67ee0ea6abad2ebad2e588a9aa130fc98d6b553f5b05ac6467503d02133bdc%22%7D%7D",
+							"raw": "https://api-partner.spotify.com/v1/query?operationName=home&variables=%7B%22timeZone%22%3A%22Asia%2FCalcutta%22%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%223a67ee0ea6abad2ebad2e588a9aa130fc98d6b553f5b05ac6467503d02133bdc%22%7D%7D",
 							"protocol": "https",
 							"host": [
 								"api-partner",
@@ -111,7 +111,6 @@
 								"com"
 							],
 							"path": [
-								"pathfinder",
 								"v1",
 								"query"
 							],
