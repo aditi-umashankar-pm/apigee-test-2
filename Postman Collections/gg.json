@@ -1931,33 +1931,6 @@
 			"id": "f3a7415c-2ff9-4bc3-9a44-589f9bf5f737"
 		},
 		{
-			"name": "New Request",
-			"event": [
-				{
-					"listen": "test",
-					"script": {
-						"id": "44991505-9a3f-41d8-8122-ed7c55a336d0",
-						"exec": [
-							"pm.test(\"Body matches string\", function () {",
-							"    pm.expect(pm.response.text()).to.include(\"search\");",
-							"});"
-						],
-						"type": "text/javascript"
-					}
-				}
-			],
-			"id": "46b12d9b-dcdf-43a1-98c4-5a4b7773a6aa",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "GET",
-				"header": [],
-				"url": "google.com"
-			},
-			"response": []
-		},
-		{
 			"name": "https://signaler-pa.clients6.google.com/punctual/multi-watch/channel?VER=8&gsessionid=GUIwR4Su1AbRri0BNC8iv57X9BZivyXH1mSUhA3XRrE&key=AIzaSyCkokF7ksaXeZWuLoDCuE1JGr7Ktzg2mXM&RID=rpc&SID=TN0D4mtMmC1FihN89jR8-g&CI=0&AID=12&TYPE=xmlhttp&zx=ymrvu5xcielp&t=1",
 			"id": "c8a83c09-b5e5-419e-8ad3-f0d81dfafafd",
 			"protocolProfileBehavior": {
