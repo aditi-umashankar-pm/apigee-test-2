@@ -2097,19 +2097,6 @@
 				"url": "https://desktop.postman.com/_ar-assets/asset-priority.json"
 			},
 			"response": []
-		},
-		{
-			"name": "New Request",
-			"id": "c3aacff3-6fb1-43bc-8e3c-cf9ab2024965",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "GET",
-				"header": [],
-				"url": "dfvesgfdgesr"
-			},
-			"response": []
 		}
 	]
 }
