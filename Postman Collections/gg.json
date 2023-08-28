@@ -467,7 +467,8 @@
 						"id": "8224e49d-4afd-4259-a5e2-545566e1880f",
 						"exec": [
 							"console.log('ah hah!');",
-							"console.log('oh no');"
+							"console.log('oh no');",
+							"console.log('alas');"
 						],
 						"type": "text/javascript"
 					}
