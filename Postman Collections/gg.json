@@ -361,7 +361,8 @@
 						"id": "8224e49d-4afd-4259-a5e2-545566e1880f",
 						"exec": [
 							"console.log('ah hah!');",
-							"let a = 'new variable for laughs';"
+							"let a = 'new variable for laughs';",
+							"var b='newer';"
 						],
 						"type": "text/javascript"
 					}
