@@ -362,7 +362,8 @@
 						"exec": [
 							"console.log('ah hah!');",
 							"let a = 'new variable for laughs';",
-							"var b='newer';"
+							"var b='newer';",
+							"var c = 'newest';"
 						],
 						"type": "text/javascript"
 					}
