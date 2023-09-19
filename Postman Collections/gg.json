@@ -389,7 +389,9 @@
 							"console.log('ah hah!');",
 							"let a = 'new variable for laughs';",
 							"var b='newer';",
-							"var aaaaa;"
+							"var aaaaa;",
+							"// changes galore",
+							"// and some more "
 						],
 						"type": "text/javascript"
 					}
