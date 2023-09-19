@@ -390,8 +390,8 @@
 							"let a = 'new variable for laughs';",
 							"var b='newer';",
 							"var aaaaa;",
-							"// changes galore",
-							"// and some more "
+							"// changes galore and mroe",
+							""
 						],
 						"type": "text/javascript"
 					}
@@ -402,7 +402,7 @@
 				"disableBodyPruning": true
 			},
 			"request": {
-				"method": "DELETE",
+				"method": "PUT",
 				"header": [
 					{
 						"key": "host",
