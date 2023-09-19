@@ -474,7 +474,8 @@
 						"id": "e5551758-9946-4dc1-a0f8-2fb964eb193b",
 						"exec": [
 							"const filename = `file_${Math.ceil(Math.random() *100)}`",
-							"pm.variables.set('filename', filename);"
+							"pm.variables.set('filename', filename);",
+							"// caahhahahah"
 						],
 						"type": "text/javascript"
 					}
